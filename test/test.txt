@@ -1,0 +1,20 @@
+void auto    static extern register typedef char
+float double int short long unsigned struct
+union enum if else while do for switch break
+continue return goto case default sizeof
+; { } , : = ( ) [ ] * . -> ++ -- & - ! ~
+/ % + << >> < <= >= > == != ^ | && || ? +=
+-= *= /= %= >>= <<= &= ^= |=
+abc stat swit987 voida void+
+;{,:+++++<<=<<<&&=**=
+123405xyz 0123 9876L 5678l
+0. .0 1.0 3e1 1.0e-3 .00034 3.14159 1e-3 2e+9
+1234.567E+45
+program PROGRAM PrOGraM
+$a $A $b $B $c $C
+$d $D $e $E $f $F
+$ $z $y $yyy $xy $xxxxyy $yz $yyyz $xyz $xxxxyyz
+the then thence
+[]()|*+?-#{}\ jj
+$[]()|*+?-#{}\  YZZ YYYZ
+\
